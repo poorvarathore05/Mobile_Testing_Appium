@@ -1,0 +1,5 @@
+com\appium\TestCase_3.class
+PageObject\HomePage.class
+PageObject\FormPage.class
+PageObject\Utilites.class
+PageObject\CheckOutPage.class
